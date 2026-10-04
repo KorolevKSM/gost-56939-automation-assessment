@@ -1,0 +1,1 @@
+# gost-56939-automation-assessment
