@@ -2,8 +2,8 @@
 
 > **Научно-исследовательский и инженерный open-source проект** в рамках выполнения выпускной квалификационной работы (ВКР).
 
-[![License: GPL v3](https://shields.io)](https://gnu.org)
-![ГОСТ Р 56939-2024](https://shields.io)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![ГОСТ Р 56939-2024](https://img.shields.io/badge/ГОСТ%20Р%2056939--2024-blue.svg)](https://meganorm.ru/mega_doc/norm_update_01022025/gost-r_gosudarstvennyj-standart/0/gost_r_56939-2024_natsionalnyy_standart_rossiyskoy.html)
 
 ---
 
